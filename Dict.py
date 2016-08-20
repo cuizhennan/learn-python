@@ -67,4 +67,4 @@ db['sue'] = sue
 import pprint
 pprint.pprint(db)
 
-print(len(db['bob'].values()))
+print(list(db['bob'].values()))
