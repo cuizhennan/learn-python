@@ -8,3 +8,16 @@
 @time: 16/12/28 14:35
 """
 
+
+
+def somefunction(b, str):
+    while b < 10:
+        print(b)
+        b += 1
+        print('------------')
+        print(str.strip())
+        print(str.__len__())
+        print('------------')
+
+
+somefunction(1, ' c z n ')
