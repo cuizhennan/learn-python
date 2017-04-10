@@ -1,4 +1,4 @@
-#! /usr/bin/env python`
+#! /usr/bin/env python
 
 
 def add_function(a, b):
